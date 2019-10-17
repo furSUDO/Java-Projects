@@ -1,5 +1,5 @@
 # South African ID Verifier
-A java method that Verifies South African ID Numbers
+### A java method that Verifies South African ID Numbers
 
 Method will output either ``1`` (True) or ``0`` (False) as a String
 
