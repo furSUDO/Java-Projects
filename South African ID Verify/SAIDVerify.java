@@ -49,7 +49,6 @@ public class SAIDVerify {
                 valid = "1";
             }else{
                 valid = "0";
-                
             }
         }//end of if statement that confirms that the entered text is 13 characters long
         return valid;
