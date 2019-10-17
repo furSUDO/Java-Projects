@@ -8,4 +8,10 @@ Example of use:
     String IDInput = "8001015009087"; //example ID
     String SAIDVerifyOUT = SAIDVerify.Validator(IDInput);//calls Method
     int isValid = Integer.parseInt(SAIDVerifyOUT);//converts String to int
+
+    if(isValid==1){
+        System.out.println("ID is Valid!")
+    }else{
+        System.out.println("ID is Invalid!")
+    }
 ```
